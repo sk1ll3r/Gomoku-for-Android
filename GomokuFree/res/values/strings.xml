@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Gomoku Free BETA</string>
+    <string name="start_player">Start - Player goes first</string>
+    <string name="start_comp">Start - Computer goes first</string>
+    <string name="start_game">Play</string>
+    <string name="options">Options</string>
+    <string name="quit">Exit</string>
+    <string name="set_preferences">Preferences</string>
+    <string name="human_start_pref_summary">Check for human start. Uncheck for AI start.</string>
+    <string name="human_start_pref_title">Human starts</string>
+    <string name="difficulty_pref_title">Difficulty</string>
+    <string name="difficulty_pref_summary">Current difficulty is %1$d</string>
+    <string name="debug">Debug</string>
+    <string name="about">About</string>
+    <string name="about_text">"Gomoku is a 2-players game played on a square grid. On a player's turn, corresponding sign (an 'X' or an 'O') is put into a square. A player wins the game when an unbroken row (horizontally, vertically or diagonally) of 5 signs is reached.\n\nPress once to play a move and second time to the same square to confirm it.\n\nThis game is currently under development and any feedback is welcome!"</string>
+    <string name="admob_publisher_id">a1501bf16952a5a</string>
+
+</resources>
